@@ -1,0 +1,18 @@
+{
+    "name": "vladimir/article-content-provider-bundle",
+    "description": "Генератор контента статьия",
+    "authors": [
+        {
+            "name": "Nikitin Vladimir",
+            "email": "vreservoirv@rambler.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "CatCasCarSkillboxSymfony\\ArticleContentProviderBundle\\": "src/"
+        }
+    }
+}
